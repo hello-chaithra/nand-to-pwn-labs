@@ -19,6 +19,12 @@ Every week I build one project that combines concepts I learnt from **CS50x** (h
 | 04 | **Rover**: assembler and SQL tracker | Nov 23 to 29 | Python, SQL (weeks 6-7) | The Hack assembler (project 6) | Planned |
 | 05 | **Flint**: Flask with a Spark | Nov 30 to Dec 6 | HTML, CSS, JavaScript, Flask (weeks 8-9) | Virtual machine translator (projects 7-8) | Planned |
  
+## Pwn My Own Apps
+
+The `pwn-my-own-apps/` folder is where "nand-to-pwn" gets its pwn. I take the web apps I built in **Rover** (build 04) and **Flint** (build 05), attack them myself, fix what breaks, and attack again to check the fix holds.
+
+Each round follows the same loop: **Attack:** find and exploit a weakness, and record the exact steps, **Explain:** write down why it worked, in terms of concepts and **Fix:** patch the code and run the same exploit against the fixed version.
+
 ## Tools
  
 C (clang, make), Python, SQL, Flask, the nand2tetris hardware simulator and HDL, Git and GitHub, Linux terminal.
