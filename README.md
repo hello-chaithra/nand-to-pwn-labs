@@ -35,6 +35,5 @@ I sincerely thank the educators for the free, world-class material that made thi
 
 - [CS50x](https://cs50.harvard.edu/x/), Harvard University, taught by David J. Malan and the CS50 team
 - [nand2tetris](https://www.nand2tetris.org/), Noam Nisan and Shimon Schocken, authors of *The Elements of Computing Systems*
-- [OverTheWire](https://overthewire.org/wargames/), for the wargames that make learning security fun
 
 All course material belongs to its authors. This repo contains only my own builds and the concepts they use.
